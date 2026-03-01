@@ -1,8 +1,8 @@
 # Duolingo Streak API
 
-![Duolingo Streak](https://duolingo-api-five.vercel.app/user/svg/APE3MP)
-
 <p align="center">
+
+![Duolingo Streak](https://duolingo-api-five.vercel.app/user/svg/APE3MP)
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Tech Stack">
 </p>
 
