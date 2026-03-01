@@ -5,6 +5,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Tech Stack">
 </p>
+
 # How to use
 
 There are two public endpoints, all you require is a username to use. 
