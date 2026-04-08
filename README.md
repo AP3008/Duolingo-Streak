@@ -26,6 +26,7 @@ Returns an SVG with no background of the users current streak, as shown above.
 
 You can add a snippet like this into your github readme to use the SVG, just put your duolingo username in **{username}**
 
+
 ```html
 <img src="https://duolingo-api-five.vercel.app/user/svg/{username}" alt="Duolingo Streak" width=360 style="border-radius:16px;">
 ```
